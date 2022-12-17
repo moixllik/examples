@@ -1,0 +1,13 @@
+https://moixllik.com/bash/usar-oh-my-zsh
+https://moixllik.com/bash/remover-commits
+https://moixllik.com/bash/neovim-spacevim
+https://moixllik.com/bash/backup-postgresql
+https://moixllik.com/bash/sitemap-txt
+https://moixllik.com/blender/font-comic
+https://moixllik.com/ffmpeg/cortar-audio
+https://moixllik.com/haskell/unit-tests/README
+https://moixllik.com/haskell/introduccion/README
+https://moixllik.com/javascript/puntos-twitch
+https://moixllik.com/python/tk-text-color
+https://moixllik.com/rust/unit-tests/README
+https://moixllik.com/rust/introduccion/README
