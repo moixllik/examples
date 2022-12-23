@@ -5,6 +5,7 @@ https://moixllik.com/bash/backup-postgresql
 https://moixllik.com/bash/sitemap-txt
 https://moixllik.com/blender/font-comic
 https://moixllik.com/ffmpeg/cortar-audio
+https://moixllik.com/haskell/static-http-server/README
 https://moixllik.com/haskell/unit-tests/README
 https://moixllik.com/haskell/introduccion/README
 https://moixllik.com/javascript/puntos-twitch
