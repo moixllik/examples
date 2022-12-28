@@ -20,6 +20,7 @@
 
 * [Introducción al lenguaje Haskell](./haskell/introduccion/)
 * [Agregar Unit tests a proyectos en Haskell](./haskell/unit-tests/)
+* [Servidor HTTP estático en Haskell](./haskell/static-http-server/)
 
 ## JavaScript
 
@@ -33,3 +34,4 @@
 
 * [Introducción al lenguaje Rust](./rust/introduccion/)
 * [Agregar Unit tests a proyectos en Rust](./rust/unit-tests/)
+* [Usando archivos JSON en Rust](./rust/archivos-json/)
