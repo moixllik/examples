@@ -1,4 +1,4 @@
-# Otros Ejemplos
+# Ejemplos
 
 ## Bash
 
