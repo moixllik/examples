@@ -25,6 +25,7 @@
 ## JavaScript
 
 * [Puntos de Twitch automáticos](./javascript/puntos-twitch.md)
+* [Activar Speech del navegador desde un Bookmark](./javascript/speech-bookmark.md)
 
 ## Python
 
