@@ -9,6 +9,7 @@ https://examples.moixllik.com/haskell/introduccion/README
 https://examples.moixllik.com/haskell/static-http-server/README
 https://examples.moixllik.com/haskell/unit-tests/README
 https://examples.moixllik.com/javascript/puntos-twitch
+https://examples.moixllik.com/javascript/speech-bookmark
 https://examples.moixllik.com/python/tk-text-color
 https://examples.moixllik.com/rust/archivos-json/README
 https://examples.moixllik.com/rust/introduccion/README
